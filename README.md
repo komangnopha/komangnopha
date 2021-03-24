@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @komangnopha
 - 👀 I’m interested in Mobile programming, Web programming, and Backend programming.
-- 🌱 I’m currently learning Flutter for Mobile programming, Angular for Web programming, and GraphQL & Node.js for Backend.
+- 🌱 I’m currently learning Flutter, Angular, GraphQL & Node.js.
 - 💞️ I’m looking to collaborate on any project i'm interested for.
 
 <!---
